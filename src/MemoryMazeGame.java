@@ -1,7 +1,4 @@
 /**
- * Name: Emily Tou
- * Date: January 19, 2018
- * Course Code: ICS3U1-01 Mr.Fernandes
  * Title: Memory Maze
  * Description: sentences that describe your product
  * Features: Choosing Gender, Images Disappearing for a Certain Time, Image Appearing if Same Section is Clicked Two Times
