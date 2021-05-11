@@ -1,6 +1,5 @@
 /**
  * Title: Memory Maze
- * Description: sentences that describe your product
  * Features: Choosing Gender, Images Disappearing for a Certain Time, Image Appearing if Same Section is Clicked Two Times
  * Major Skills: Different image icons are displayed according to gender button clicked, timer for amount of time card is visible, 
  * checking if section images match, loading mazes only when corresponding section is clicked, 
