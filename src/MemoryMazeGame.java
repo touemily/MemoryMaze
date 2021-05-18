@@ -5,8 +5,7 @@
  * checking if section images match, loading mazes only when corresponding section is clicked, 
  * sending locations of section panels to Section class, using image count variable to setIcons for walls, for statements, if statements, 
  * arrays
- * Areas of Concern: Errors in the code for KeyPressed in the section class. 
- * 					 The appearing of the section images when clicked is slow to catch up to mouse click. Click the images slowly.
+ * Areas of Concern: The appearing of the section images when clicked is slow to catch up to mouse click.
  */
 
 public class MemoryMazeGame {
